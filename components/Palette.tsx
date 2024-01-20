@@ -1,0 +1,35 @@
+import cn from 'classnames';
+import { PALETTE } from 'lib/constant';
+import { useTheme } from 'next-themes';
+
+import type { Note } from 'lib/types';
+
+interface PaletteProps {
+  state: Omit<Note, 'id'>;
+  setState: (values: any) => void;
+}
+
+const Palette = ({ state, setState }: PaletteProps) => {
+  const { theme } = useTheme();
+
+  return (
+    <div className='flex w-full items-center gap-x-1 overflow-hidden p-2 hover:overflow-x-auto'>
+      {Object.entries(PALETTE?.[theme as 'light' | 'dark']).map(
+        ([key, color]) => (
+          <button
+            key={key}
+            type='button'
+            onClick={() => setState({ ...state, color: key })}
+            className={cn(
+              color,
+              state.color === color && 'border-0',
+              'h-3 w-3 cursor-pointer rounded-full border-2 border-white p-3 dark:border-black'
+            )}
+          />
+        )
+      )}
+    </div>
+  );
+};
+
+export default Palette;
