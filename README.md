@@ -24,5 +24,5 @@ Check your screen.
 Steps 3-5 are useless. But this "could" help you "stand out" from other recruiters that are fatter than you and may "potentially" lead to a job offer. Same as with code tasks on recruitment processes, "useless", "could", "stand out", "potentially"...
 
 ## Similar stuff
-[More things you don't need to ask me to do]('https://github.com/TonySapa/i-am-not-john#dont-ask-me-to-do')<br>
-[Proving I am not John]('https://github.com/TonySapa/i-am-not-john')
+[More things you don't need to ask me to do](https://github.com/TonySapa/i-am-not-john#dont-ask-me-to-do)<br>
+[Proving I am not John](https://github.com/TonySapa/i-am-not-john)
