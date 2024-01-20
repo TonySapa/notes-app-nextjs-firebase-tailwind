@@ -1,6 +1,12 @@
 # <span style="color:red;font-weight:700;">Don't ask me to do</span> a SSR notes taking app with Next.JS, Firebase and Tailwind
 It is ok for John to keep building these ones on every recruitment process. Is not ok for Tony to ignore past achievements and more complex public code that can be evaluated on his github profile. Tony is not John.
 
+![Captura de pantalla 2024-01-20 181832](https://github.com/TonySapa/notes-app-nextjs-firebase-tailwind/assets/49716479/32e4c771-7d5f-45cf-84c5-88a13a39857e)
+![Captura de pantalla 2024-01-20 182304](https://github.com/TonySapa/notes-app-nextjs-firebase-tailwind/assets/49716479/e7f44236-17ac-4d1c-90c6-dadcaa586ecf)
+![image](https://github.com/TonySapa/notes-app-nextjs-firebase-tailwind/assets/49716479/822a07b1-425d-4dce-88a3-16a9d6d3c1c1)
+![image](https://github.com/TonySapa/notes-app-nextjs-firebase-tailwind/assets/49716479/83ba7684-72d0-4c3d-98fd-5d7b8df8581a)
+
+
 ## Stack
 - TypeScript
 - React
